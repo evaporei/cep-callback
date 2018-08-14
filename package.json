@@ -1,0 +1,23 @@
+{
+  "name": "cep-callback",
+  "version": "1.0.0",
+  "description": "Busca por CEP usando o melhor do JavaScript, callbacks",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otaviopace/cep-callback.git"
+  },
+  "keywords": [
+    "cep",
+    "callback"
+  ],
+  "author": "Otávio Pace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otaviopace/cep-callback/issues"
+  },
+  "homepage": "https://github.com/otaviopace/cep-callback#readme"
+}
