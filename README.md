@@ -38,7 +38,7 @@ Por ser multifornecedor, a biblioteca irá chamar o callback com o fornecedor qu
 ``` js
 var cep = require('cep-callback')
 
-cep('05010000', (err, cepData) => {
+cep('05010000', function (err, cepData) {
   console.log(cepData)
 })
 
@@ -60,7 +60,7 @@ Em muitos sistemas o CEP é utilizado erroneamente como um Inteiro (e com isto c
 var cep = require('cep-callback')
 
 // enviando sem ter um zero à esquerda do CEP "05010000"
-cep(5010000, (err, cepData) => {
+cep(5010000, function (err, cepData) {
   console.log(cepData)
 })
 
@@ -80,7 +80,7 @@ Neste caso será retornado um `"service_error"` e por ser multifornecedor, a bib
 ``` js
 var cep = require('cep-callback')
 
-cep('99999999', (err, cepData) => {
+cep('99999999', function (err, cepData) {
   console.log(err)
 })
 
@@ -109,7 +109,7 @@ Neste caso será retornado um `"validation_error"` e a biblioteca irá retornar 
 ``` js
 var cep = require('cep-callback')
 
-cep('123456789123456789', (err, cepData) => {
+cep('123456789123456789', function (err, cepData) {
   console.log(err)
 })
 
@@ -149,7 +149,7 @@ $ bower install --save cep-callback
 ``` ts
 import * as cep from 'cep-callback'
 
-cep('05010000', (err, cepData) => {
+cep('05010000', function (err, cepData) {
   console.log(cepData)
 })
 ```
@@ -160,7 +160,8 @@ Leia nosso guia de contribuição [aqui](CONTRIBUTING.md)
 
 ## Contribuidores
 
-Ainda não temos, venha contribuir! :)
+| [<img src="https://avatars1.githubusercontent.com/u/8422610?&v=3&s=115"><br><sub>@thor99</sub>](https://github.com/thor99) |
+| :---: |
 
 
 ## Autor
