@@ -160,7 +160,8 @@ Leia nosso guia de contribuição [aqui](CONTRIBUTING.md)
 
 ## Contribuidores
 
-Ainda não temos, venha contribuir! :)
+| [<img src="https://avatars1.githubusercontent.com/u/8422610?&v=3&s=115"><br><sub>@thor99</sub>](https://github.com/thor99) |
+| :---: |
 
 
 ## Autor
