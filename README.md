@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/15306309/44069354-b2428516-9f54-11e8-9e43-96d65ce32d0b.gif">
+  <img src="https://user-images.githubusercontent.com/15306309/44351529-77ef4380-a478-11e8-875f-a7de5bc11196.gif">
 </p>
 
 <h1 align="center">CEP Callback</h1>
