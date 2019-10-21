@@ -20,7 +20,7 @@
   Busca por CEP usando o melhor do JavaScript, callbacks
 </p>
 
-Todos sabem que hoje as Promises dominam o mundo do JavaScript. O que faz com que a utilização de callbacks seja algo do passado. Porém o **oldschool** é sempre mais legal, portanto essa biblioteca mostra como callbacks ainda podem ser utilizados e como você pode se sentir um **hipster** ao utilizá-las em 2018.
+Todos sabem que hoje as Promises dominam o mundo do JavaScript. O que faz com que a utilização de callbacks seja algo do passado. Porém o **oldschool** é sempre mais legal, portanto essa biblioteca mostra como callbacks ainda podem ser utilizados e como você pode se sentir um **hipster** ao utilizá-las em 2019.
 
 ## Features
 
